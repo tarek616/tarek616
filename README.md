@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarek616
 - 👀 I’m interested in game development 
-- 🌱 I’m currently learning C++
+- 🌱 i have finished learning C++
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tarek04153@gmail.com
 
